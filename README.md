@@ -1,1 +1,1 @@
-# syllolism-llm
+# syllogism-llm
