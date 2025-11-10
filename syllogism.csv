@@ -1,0 +1,67 @@
+﻿Statement,Conclusion 1,Conclusion 2,Result class
+Some actors are singers. All the singers are dancers.,Some actors are dancers.,No singer is actor.,A
+All the harmoniums are instruments. All the instruments are flutes.,All the flutes are instruments.,All the harmoniums are flutes.,B
+Some mangoes are yellow. Some tixo are mangoes.,Some mangoes are green.,Tixo is a yellow.,D
+Some ants are parrots. All the parrots are apples.,All the apples are parrots.,Some ants are apples.,B
+Some papers are pens. All the pencils are pens.,Some pens are pencils.,Some pens are papers.,E
+All the actors are girls. All the girls are beautiful.,All the actors are beautiful.,Some girls are actors.,E
+All the windows are doors. No door is a wall.,Some windows are walls.,No wall is a door.,B
+All cups are books. All books are shirts.,Some cups are not shirts.,Some shirts are cups.,B
+Some cows are crows. Some crows are elephants.,Some cows are elephants.,All crows are elephants.,D
+All the pencils are pens. All the pens are inks.,All the pencils are inks.,Some inks are pencils.,E
+Some dogs are bats. Some bats are cats.,Some dogs are cats.,Some cats are dogs.,D
+All the trucks are flies. Some scooters are flies.,All the trucks are scooters.,Some scooters are trucks.,D
+All buildings are chalks. No chalk is toffee.,No building is toffee,All chalks are buildings.,A
+All cars are cats. All fans are cats.,All cars are fans.,Some fans are cars.,D
+"No women teacher can play. Some women teachers are athletes.
+",Male athletes can play.,Some athletes can play.,D
+All bags are cakes. All lamps are cakes.,Some lamps are bags.,No lamp is bag.,C
+All mangoes are golden in colour. No golden-coloured things are cheap.,All mangoes are cheap.,Golden-coloured mangoes are not cheap.,B
+Some kings are queens. All queens are beautiful.,All kings are beautiful,All queens are kings.,D
+Some doctors are fools. Some fools are rich.,Some doctors are rich,Some rich are doctors.,D
+All roads are waters. Some waters are boats.,Some boats are roads.,All waters are boats.,D
+No bat is ball. No ball is wicket.,No bat is wicket.,All wickets are bats.,D
+All flowers are trees. No fruit is tree.,No fruit is flower.,Some trees are flowers.,E
+Every minister is a student. Every student is inexperienced.,Every minister is inexperienced.,Some inexperienced are students.,E
+All roads are poles. No pole is a house.,Some roads are houses.,Some houses are poles.,D
+All fish are tortoise. No tortoise is a crocodile.,No crocodile is a fish.,No fish is a crocodile.,E
+Some dedicated souls are angels. All social workers are angels.,Some dedicated souls are social workers.,Some social workers are dedicated souls.,D
+No gentleman is poor. All gentlemen are rich.,No poor man is rich.,No rich man is poor.,D
+Some swords are sharp. All swords are rusty,Some rusty things are sharp.,Some rusty things are not sharp.,A
+All fishes are grey in colour. Some fishes are heavy.,All heavy fishes are grey in colour.,All light fishes are not grey in colour.,A
+All good athletes win. All good athletes eat well.,All those who eat well are good athletes.,All those who win eat well.,D
+All film stars are playback singers. All film directors are film stars.,All film directors are playback singers.,Some film stars are film directors.,E
+All hill stations have a sun-set point. X is a hill station.,X has a sun-set point.,Places other than hill stations do not have sun-set points.,A
+Some dreams are nights. Some nights are days.,All days are either nights or dreams.,Some days are nights.,B
+All jungles are tigers. Some tigers are horses.,Some horses are jungles.,No horse is jungle.,C
+All poles are guns. Some boats are not poles.,All guns are boats.,Some boats are not guns.,D
+Many scooters are trucks. All trucks are trains.,Some scooters are trains.,No truck is a scooter.,A
+Some papers are pens. Angle is a paper.,Angle is not a pen.,Angle is a pen.,c
+All birds are tall. Some tall are hens.,Some birds are hens.,Some hens are tall.,B
+Some papers are pens. Some pencils are pens.,Some pens are pencils.,Some pens are papers.,E
+Some men are educated. Educated persons prefer small families.,All small families are educated.,Some men prefer small families.,B
+All educated people read newspapers. Rahul does not read newspaper.,Rahul is not educated.,Reading newspaper is not essential to be educated.,A
+All pens are chalks. All chairs are chalks.,Some pens are chairs.,Some chalks are pens.,B
+Bureaucrats marry only intelligent girls. Tanya is very intelligent.,Tanya will marry a bureaucrat.,Tanya will not marry a bureaucrat.,C
+Some engineers are fools. Anand is an engineer.,Some fools are engineers.,Anand is a fool.,A
+All windows are doors. No door is wall.,No window is wall.,No wall is door.,E
+Most teachers are boys. Some boys are students.,Some students are boys.,Some teachers are students.,A
+No man is a donkey. Rahul is a man.,Rahul is not a donkey.,All men are not Rahul.,A
+Some books are pens. No pen is pencil.,Some books are pencils.,No book is pencil.,C
+All men are married. Some men are educated.,Some married are educated.,Some educated are married.,E
+All tubes are handles. All cups are handles.,All cups are tubes.,Some handles are not cups.,D
+No magazine is cap. All caps are cameras.,No camera is magazine.,Some cameras are magazines.,C
+All huts are mansions. All mansions are temples.,Some temples are huts.,Some temples are mansions.,E
+Some books are tables. Some tables are mirrors.,Some mirrors are books.,No book is mirror.,C
+All trucks fly. Some scooters fly.,All trucks are scooters.,Some scooters do not fly.,D
+Raman is always successful. No fool is always successful.,Raman is a fool.,Raman is not a fool.,B
+Some desks are caps. No cap is red.,Some caps are desks.,No desk is red.,A
+Some hens are cows. All cows are horses.,Some horses are hens.,Some hens are horses.,E
+All water is divine. All temples are divine.,All water is temple.,All temples are water.,D
+All men are dogs. All dogs are cats.,All men are cats.,All cats are men.,A
+All young scientists are open-minded. No open-minded men are superstitious.,No scientist is superstitious.,No young people are superstitious.,D
+Some pastries are toffees. All toffees are chocolates.,Some chocolates are toffees.,Some toffees are not pastries.,A
+All boys are honest. Sachin is honest.,Sachin is a boy.,All honest persons are boys.,D
+All pens are roads. All roads are houses.,All houses are pens.,Some houses are pens.,B
+All artists are smokers. Some smokers are drunkards.,All smokers are artists.,Some drunkards are not smokers.,D
+All cars are cats. All fans are cats.,All cars are fans,Some fans are cars.,D
